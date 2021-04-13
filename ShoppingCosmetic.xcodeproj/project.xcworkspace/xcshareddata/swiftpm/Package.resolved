@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NavigationStack",
+        "repositoryURL": "https://github.com/matteopuc/swiftui-navigation-stack.git",
+        "state": {
+          "branch": "master",
+          "revision": "22b42e29e268bf7a59558d6a5e7208d91871deca",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

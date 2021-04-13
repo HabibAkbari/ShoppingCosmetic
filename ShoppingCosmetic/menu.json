@@ -1,0 +1,483 @@
+
+[
+    {
+        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+        "category": "Perfume",
+        "items":[{
+            "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+            "name":"Miss Dior Blooming Bouquet",
+            "size":"1.7",
+            "brand":"Dior",
+            "price": 80,
+            "backgroundColorProduct":["251","160","173"],
+            "selectColorProduct": {
+                "colorProduct00":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct01":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct02":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                }
+            },
+            "imageBackgroundProductDetails":"miss_dior_blooming_bouquet_background_product_details",
+            "imagesProduct":  {
+                "image00":"Miss_Dior_Blooming_Bouquet",
+                "image01":"",
+                "image02":""
+            },
+            "description":"iscover Blooming Bouquet, the newest interpretation of Miss Dior. Created for an irresistibly charming and flirtatious woman,          Miss Dior Blooming Bouquet embodies the couture spirit of Dior in a sparkling and sensual essence. A delicate blend of Sicilian Orange Essence and a tender floral heart, unveils notes of Pink Peony and Damasus Rose. As a finishing touch, White Musks              softly envelop this light and sensual floral bouquet. Made in France."
+        },{
+            "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+            "name":"J'adore Touche de Parfum",
+            "size":"0.0",
+            "brand":"Dior",
+            "price":100,
+            "backgroundColorProduct":["246","204","117"],
+            "selectColorProduct": {
+                       "colorProduct00":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       },
+                       "colorProduct01":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       },
+                       "colorProduct02":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       }
+                   },
+            "imageBackgroundProductDetails":"J'adore Touche de Parfum_background_product_details",
+            "imagesProduct": {
+                "image00":"J'adore_Touche_de_Parfum",
+                "image01":"",
+                "image02":""
+            },
+            "description":"The New Fragrance Ritual. From one drop to infinity, make J'adore yours. J'adore Touche de Parfum is a new olfactory and sensory experience created by François Demachy. It is more than a fragrance — it is an unexpected invitation, a new creative and sensual approach that leaves each woman free to tailor her J'adore fragrance to the moment and her desires. Apply a drop on the skin before spraying the J'adore fragrance of your choice. J'adore Touche de Parfum reacts differently on the skin of each woman who wears it. Depending on where it is applied and the notes of the fragrance paired with it, it provides endless variations and composes as many different fragrances as there are women's personalities. J'adore Touche de Parfum is an invitation to adopt J'adore as your own and create a custom fragrance to suit your desires. 0.68 oz. Made in France."
+        },{
+            "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+            "name":"Heavenly Gingerlily Fine Liquid Hand Wash",
+            "size":"10 OZ",
+            "brand":"Molton Brown",
+            "price":28,
+            "backgroundColorProduct":["221","67","39"],
+            "selectColorProduct": {
+                       "colorProduct00":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       },
+                       "colorProduct01":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       },
+                       "colorProduct02":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       }
+                   },
+            "imageBackgroundProductDetails":"Heavenly_Gingerlily_Fine_Liquid_Hand_Wash_background_product_details",
+            "imagesProduct": {
+                "image00":"Heavenly_Gingerlily_Fine_Liquid_Hand_Wash",
+                "image01":"",
+                "image02":""
+            },
+            "description":"A cleansing hand wash from Molton Brown, fragrant with warming ginger and floral notes of ginger and tuberose. 10 oz. Made in          UK."
+        },{
+            "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+            "name":"Memoire D'Une Odeur Eau de Parfum",
+            "size":"2 OZ",
+            "brand":"Gucci",
+            "price":95,
+            "backgroundColorProduct":["119","190","147"],
+            "selectColorProduct": {
+                       "colorProduct00":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       },
+                       "colorProduct01":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       },
+                       "colorProduct02":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       }
+                   },
+            "imageBackgroundProductDetails":"Memoire_D'Une_Odeur_Eau_de_Parfum_background_product_details",
+            "imagesProduct":   {
+                "image00":"Memoire_D'Une_Odeur_Eau_de_Parfum",
+                "image01":"",
+                "image02":""
+            },
+            "description":"For Gucci Mémoire d'une Odeur, scent becomes an explorer of the power of memories, bringing them back from the past and making         them live in our present. Skipping backward and forward in chronological time, the present and past are connected by a unique          bridge that projects directly into the future. A universal perfume unassigned with a gender or a time, Gucci Mémoire d’une             Odeur is an elixir that transcends gender by its individuality, to establish a new olfactive family, Mineral Aromatic. Mineral,        which is a mix of scents and emotions: airy, musky, transparent and authentic. And combined with Aromatic, it becomes the              center of Gucci Memoire d’une Odeur. The transcendent accord features unexpected and enigmatic ingredients, and is defined by a        note of Roman chamomile. Alessandro Michele envisioned this particular flower inside the scent, blended by master perfumer             Alberto Morillas. Gucci Mémoire d’une Odeur’s Roman chamomile is structured with Indian Coral Jasmine petals for tenderness,           precious musks for depth, and noble woods including warm, luminous sandalwood and airy, subtle cedarwood, a powerful tree with         deep roots and an irresistible vanilla note. Made in Germany."
+        },{
+            "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+            "name":"Mon Paris Floral Eau de Parfum",
+            "size":"3 OZ",
+            "brand":"Yves Saint Laurent",
+            "price":124,
+            "backgroundColorProduct":["189","114","137"],
+            "selectColorProduct": {
+                       "colorProduct00":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       },
+                       "colorProduct01":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       },
+                       "colorProduct02":{
+                           "red":"",
+                           "green":"",
+                           "blue":""
+                       }
+                   },
+            "imageBackgroundProductDetails":"Mon_Paris_Floral_Eau_de_Parfum_background_product_details",
+            "imagesProduct": {
+                "image00":"Mon_Paris_Floral_Eau_de_Parfum",
+                "image01":"",
+                "image02":""
+            },
+            "description":"Feel the rush of a passionate love story with Mon Paris Floral, the floral interpretation of the iconic Mon Paris signature. A         fruity top note of pear and raspberry is enlightened by the dewy floral heart, rounded out by white musk.A floral                      interpretation of the classic Mon Paris signature. Notes of fresh pear and white musk are enlighted by a floral bouquet of             peonies. 3 oz. Made in France."
+        }]
+    },
+    {
+        "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+        "category": "LIPSTICK",
+        "items":[{
+            "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+            "name":"Limited Edition Rouge Dior Lip Color",
+            "size":"ONE SIZE",
+            "brand":"Dior",
+            "price":37,
+            "backgroundColorProduct":["91","95","96"],
+            "selectColorProduct": {
+                       "colorProduct00":{
+                           "red":"132",
+                           "green":"5",
+                           "blue":"39"
+                       },
+                       "colorProduct01":{
+                           "red":"171",
+                           "green":"47",
+                           "blue":"53"
+                       },
+                       "colorProduct02":{
+                           "red":"140",
+                           "green":"71",
+                           "blue":"71"
+                       }
+                   },
+            "imageBackgroundProductDetails":"Limited_Edition_Rouge_Dior_Lip_Color_background_product_details",
+            "imagesProduct":  {
+                "image00":"Limited_Edition_Rouge_Dior_Lip_Color_Metallic",
+                "image01":"Limited_Edition_Rouge_Dior_Lip_Color_Eccentric",
+                "image02":"Limited_Edition_Rouge_Dior_Lip_Color_HypnoticMatte"
+            },
+            "description":"Limited Edition. Vibrant colors & multiple effects designed by Peter Philips to harmonize with the opulent hues and effects of         his metallics on eyes, face and nails, the new rouge dior shades for fall 2017 flaunt strong beauty with a distinguished chic          style. Its iconic formula offering 16 hours of comfort* ensures that women feel good, regardless of the color or finish.               *consumer test, 60 women. Makeup finish ultra-pigmented and luminous couture colors with optimal comfort and long-lasting wear.        0.12 oz. Imported."
+        },{
+            "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+            "name":"Le Rose Perfecto Beautifying Color Balm",
+            "size":"ONE",
+            "brand":"Givenchy",
+            "price":37,
+            "backgroundColorProduct":["235","173","160"],
+            "selectColorProduct":{
+                "colorProduct00":{
+                    "red":"171",
+                    "green":"14",
+                    "blue":"41"
+                },
+                "colorProduct01":{
+                    "red":"218",
+                    "green":"35",
+                    "blue":"57"
+                },
+                "colorProduct02":{
+                    "red":"235",
+                    "green":"132",
+                    "blue":"127"
+                }
+            },
+            "imageBackgroundProductDetails":"Le_Rose_Perfecto_Beautifying_Color_Balm_background_product_details",
+            "imagesProduct": {
+                "image00":"Le_Rose_Perfecto_Beautifying_Color_Balm_WarmingRed",
+                "image01":"Le_Rose_Perfecto_Beautifying_Color_Balm_SoothingRed",
+                "image02":"Le_Rose_Perfecto_Beautifying_Color_Balm_GlazedBeige"
+            },
+            "description":"Le Rose Perfecto, color, care and plump with the most couture color balm. Le Rose Perfecto is a couture and 3-in-1 color balm          for deeply cared, fuller-looking and vibrantly colored lips. 0.07 oz. Made in France."
+        },{
+            "id": "759527CB-1064-4082-A527-F04698F9D18F",
+            "name":"Addict Lip Tattoo",
+            "size":"ONE",
+            "brand":"Dior",
+            "price":30,
+            "backgroundColorProduct":["210","210","210"],
+            "selectColorProduct":{
+                "colorProduct00":{
+                    "red":"195",
+                    "green":"120",
+                    "blue":"115"
+                },
+                "colorProduct01":{
+                    "red":"247",
+                    "green":"156",
+                    "blue":"111"
+                },
+                "colorProduct02":{
+                    "red":"102",
+                    "green":"23",
+                    "blue":"29"
+                }
+            },
+            "imageBackgroundProductDetails":"Addict_Lip_Tattoo_background_product_details",
+            "imagesProduct": {
+                "image00":"Addict_Lip_Tattoo_NaturalRose",
+                "image01":"Addict_Lip_Tattoo_NaturalDune",
+                "image02":"Addict_Lip_Tattoo_NaturalBrown"
+            },
+            "description":"Lip Tattoo is the first long-wear lip tint that is about to shake up your makeup routine. With its 12-hour wear, comfortable           formula and weightless no-transfer finish, the color fuses to the lips like a tattoo just seconds after application. The               resultà Kiss all you like. The color won't budge. It infuses the lips for a tattoo hold. Made in France."
+        },{
+               "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
+               "name":"Limited Edition Addict Lacquer Stick",
+               "size":"ONE",
+               "brand":"Dior",
+               "price":37,
+               "backgroundColorProduct":["152","36","92"],
+               "selectColorProduct":{
+                   "colorProduct00":{
+                       "red":"156",
+                       "green":"38",
+                       "blue":"12"
+                   },
+                   "colorProduct01":{
+                       "red":"228",
+                       "green":"88",
+                       "blue":"89"
+                   },
+                   "colorProduct02":{
+                       "red":"133",
+                       "green":"84",
+                       "blue":"80"
+                   }
+               } ,
+            "imageBackgroundProductDetails":"Limited_Edition_Addict_Lacquer_Stick_background_product_details",
+            "imagesProduct":  {
+                "image00":"Limited_Edition_Addict_Lacquer_Stick_Westwood",
+                "image01":"Limited_Edition_Addict_Lacquer_Stick_Smoothie",
+                "image02":"Limited_Edition_Addict_Lacquer_Stick_Hype"
+            },
+               "description":"Limited Edition: Saturated color and liquified shine lacquer lipstick. The first lacquer in a stick by Dior, delivering                full-color coverage and liquefied shine with just one swipe. A stick with a lip fondant texture that releases the color and            shine of a lacquer, soothes with the comfort of a balm, and delivers 6 hours* of wear and unrivaled sensoriality. Its secretà          An exclusive Dior combination of 5 ultra-shiny, ultra-light nourishing oils and beeswax for added nourishment and long wear.           The weightless feel of this easy-to-wear shine glides on with one coat and makes lips feel hydrated and utterly comfortable.           Imported."
+        },{
+            "id": "944AB773-16CA-48F9-BB64-BB0E482FE102",
+            "name":"Addict Lip Glow Color Reviver Balm",
+            "size":"ONE",
+            "brand":"Dior",
+            "price":34,
+            "backgroundColorProduct":["192","135","141"],
+            "selectColorProduct":{
+                "colorProduct00":{
+                    "red":"245",
+                    "green":"125",
+                    "blue":"98"
+                },
+                "colorProduct01":{
+                    "red":"246",
+                    "green":"146",
+                    "blue":"163"
+                },
+                "colorProduct02":{
+                    "red":"130",
+                    "green":"54",
+                    "blue":"90"
+                }
+            },
+            "imageBackgroundProductDetails":"Addict_Lip_Glow_Color_Reviver_Balm_background_product_details",
+            "imagesProduct":  {
+                "image00":"Addict_Lip_Glow_Color_Reviver_Balm_Coral",
+                "image01":"Addict_Lip_Glow_Color_Reviver_Balm_Pink",
+                "image02":"Addict_Lip_Glow_Color_Reviver_Berry"
+            },
+            "description":"The must-have universal balm from Dior Backstage, now unveiling two new finishes: Matte and Holographic, alongside the                original Glow. All enhance the lips and bring out their natural color. Dior Addict Lip Glow reacts to the unique chemistry of         each woman's lips to give them a natural flush of custom color that suits her skin tone. Lips look fresh, full and radiant, as        if revived from within.0.12 oz. Made in France."
+        }]
+    },
+    {
+        "id": "1C89DAFD-7653-4EF2-BF20-C51A159BAC43",
+        "category": "SKIN CARE",
+        "items":[{
+            "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
+            "name":"Synactif Cream",
+            "size":"ONE",
+            "brand":"Clé de Peau Beauté",
+            "price":1000,
+            "backgroundColorProduct":["74","60","86"],
+            "selectColorProduct":{
+                "colorProduct00":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct01":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct02":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                }
+            },
+            "imageBackgroundProductDetails":"Synactif_Cream_background_product_details",
+            "imagesProduct":  {
+                "image00":"Synactif_Cream",
+                "image01":"",
+                "image02":""
+            },
+            "description":"A luxurious cream that inspires smooth, firm, resilient skin that is glowing with energy and beauty. Transforms the look of           facial contours. 1.4 oz. Made in Japan."
+        },{
+                "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
+                "name":"Capture Totale DreamSkin Care & Perfect Global Age-Defying Skincare Perfect Skin Creator",
+                "size":"1 OZ",
+                "brand":"Dior",
+                "price":115,
+                "backgroundColorProduct":["244","184","192"],
+                "selectColorProduct":{
+                    "colorProduct00":{
+                        "red":"",
+                        "green":"",
+                        "blue":""
+                    },
+                    "colorProduct01":{
+                        "red":"",
+                        "green":"",
+                        "blue":""
+                    },
+                    "colorProduct02":{
+                        "red":"",
+                        "green":"",
+                        "blue":""
+                    }
+                },
+            "imageBackgroundProductDetails":"Capture_Totale_DreamSkin_Care_Perfect_Global_Age_Defying_Skincare_Perfect_Skin_Creator_background_product_details",
+            "imagesProduct":  {
+                "image00":"Capture_Totale_DreamSkin_Care",
+                "image01":"",
+                "image02":""
+            },
+                "description":"The skin of your dreams. Natural radiance & lasting perfection. Instantly, this perfecting emulsion fuses with the skin thanks        to a unique complex* of moisturizing ingredients. Its skin-perfecting action helps refine the skin's texture, and pores appear        tightened. Progressively, dark spots and redness appear minimized, and the complexion is more radiant, more beautiful, even           when bare. The ultra-sensory formula creates a soft-focus effect and delivers progressive skincare benefits with each                 application. The feel-good texture has a natural, velvety and luminous finish. Enriched with nourishing shea butter and pure          Alp water, rich in minerals and vitamin B3. Combined with longoza and opilia, powerful natural-origin ingredients, the fresh,         ultra-sensory formula helps transform skin quality and reduce the appearance of dark spots.* Made in France."
+        },{
+            "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
+            "name":"Or Rouge Crème Fine",
+            "size":"1 OZ",
+            "brand":"Yves Saint Laurent",
+            "price":400,
+            "backgroundColorProduct":["157","116","64"],
+            "selectColorProduct":{
+                "colorProduct00":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct01":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct02":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                }
+            },
+            "imageBackgroundProductDetails":"Or_Rouge_Crème_Fine_background_product_details",
+            "imagesProduct":  {
+                "image00":"Or_Rouge_Crème_Fine",
+                "image01":"",
+                "image02":""
+            },
+            "description":"Nestled in the high peaks of the Atlas Mountains in Morocco, a rare flower blooms. At its heart, a divine offering more               precious than gold, collected by hand, the Pistil of Saffron Flower. YSL SKINSCIENCE experts have harnessed the full powers of        this remarkable flower into a new potent glycan complex: an exceptional Global Skincare able to address 11 signs of skin              aging: Roughness, Firmness, Dullness, Elasticity, Wrinkles and fine lines, Skintone uniformity, Pore visibility, Dark spots,          Redness, Sagging, Smile lines. Resurfaced, recontoured and radiant, skin reveals its magnificence. Imported."
+        },{
+            "id": "971CFDDD-2AFA-418F-909F-D459CC6827CF",
+            "name":"L'Elixir Des Glaciers - Votre Visage",
+            "size":"ONE",
+            "brand":"Valmont",
+            "price":610,
+            "backgroundColorProduct":["245","212","167"],
+            "selectColorProduct":{
+                "colorProduct00":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct01":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct02":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                }
+            },
+            "imageBackgroundProductDetails":"L_Elixir_Des_Glaciers_Votre_Visage_background_product_details",
+            "imagesProduct":  {
+                "image00":"L_Elixir_Des_Glaciers",
+                "image01":"",
+                "image02":""
+            },
+            "description":"From the L'Elixir Des Glaciers Collection. For those looking for excellence, the richness of l’Elixir des Glaciers formula            offers the ultimate in refinement and care, with visibly enhanced beauty. Day after day, this divine cream with its fine,             sensual and luxuriously smooth texture reveals a fresher tone, smoother, firmer and more toned skin, quite simply resplendent         with youth and beauty. 1.7 oz. Made in Switzerland."
+        },{
+            "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
+            "name":"Supremÿa Anti-Aging At Night Serum",
+            "size":"ONE",
+            "brand":"Sisley-Paris",
+            "price":795,
+            "backgroundColorProduct":["96","63","19"],
+            "selectColorProduct":{
+                "colorProduct00":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct01":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                },
+                "colorProduct02":{
+                    "red":"",
+                    "green":"",
+                    "blue":""
+                }
+            },
+            "imageBackgroundProductDetails":"Supremÿa_Anti_Aging_At_Night_Serum_background_product_details",
+            "imagesProduct":  {
+                "image00":"Supremÿa_Anti_Aging_At_Night_Serum",
+                "image01":"",
+                "image02":""
+            },
+            "description":"An exceptional formula for new skin youthfulness. A supreme anti-aging skin care that acts at night, a key time in cellular            regeneration. At the heart of the formula, Phyto-complex LC12 pushes back the skin's genetically programmed aging. 1.7 oz. Made        in France."
+        }]
+    }
+]
